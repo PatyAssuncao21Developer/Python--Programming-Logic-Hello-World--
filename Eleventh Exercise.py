@@ -11,7 +11,6 @@ percentual = float(input(" escreva o valor percentual de desconto: "))
 
 desc = percentual/100
 valor = preco*desc
-valor a pagar = preco - valor
+Total = preco - valor
 
-print("valor de desconto: $", valor)
-print("valor a pagar: $",pagar)
+print("valor pagamento $", valor)
