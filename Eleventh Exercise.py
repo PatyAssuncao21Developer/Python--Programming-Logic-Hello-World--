@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 11 02:30:09 2021
+Created on Sat Sep 11 03:26:26 2021
 
 @author: Patricia
 """
-#Algoritmo preco/produto e percentual desconto
+
 
 preco = float(input("escreva o preco do produto: "))
 percentual = float(input(" escreva o valor percentual de desconto: "))
